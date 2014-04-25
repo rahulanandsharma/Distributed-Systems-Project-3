@@ -1,4 +1,4 @@
-Assignment3
+Project 3
 ============
 
 
@@ -113,4 +113,3 @@ FileServer/run.sh <IP Address of RMI registry> <Port No of the RMI Registry>
 
  
 
-Keep the folders under the folder with your roll no. 
